@@ -8,6 +8,9 @@ module.exports = {
         changeOrigqin:true,
         pathRewrite:{
           '/api':''线上
+        changeOrigin:true,
+        pathRewrite:{本地}
+          '/api':''
         }
       }
     }
