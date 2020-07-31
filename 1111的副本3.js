@@ -7,7 +7,7 @@ module.exports = {
         target:'http://127.0.0.1:80',
         changeOrigqin:true,
         pathRewrite:{
-          '/api':''1111111
+          '/api':''线上
         }
       }
     }
